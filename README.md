@@ -15,8 +15,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 The GitHub Actions workflow builds and publishes the static site whenever code is pushed to `main` or `master`.
 
-1. Push this project to a GitHub repository.
-2. In the repository, open **Settings → Pages** and set the build and deployment source to **GitHub Actions**.
-3. Push to `main` or `master`, or run **Deploy to GitHub Pages** from the **Actions** tab.
+1. In the repository, open **Settings → Pages** and set the build and deployment source to **GitHub Actions**.
+2. Push to `main` or `master`, or run **Deploy to GitHub Pages** from the **Actions** tab.
 
 The workflow automatically configures the correct base path for project pages and user/organization pages. After the workflow succeeds, GitHub shows the published URL under **Settings → Pages**.
