@@ -35,6 +35,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+/public/images/WhatsApp Unknown 2026-10-18 at 5.56.19 PM.zip
 
 # typescript
 *.tsbuildinfo
